@@ -1,0 +1,8 @@
+{
+  "name": "Bill AI Assistant",
+  "description": "A powerful AI assistant named Bill, powered by Gemini 3 with web search and deep thinking capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
