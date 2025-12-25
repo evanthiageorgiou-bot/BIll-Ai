@@ -1,7 +1,8 @@
 {
-  "name": "Bill AI Assistant",
-  "description": "A powerful AI assistant named Bill, powered by Gemini 3 with web search and deep thinking capabilities.",
+  "name": "Bill AI Ultimate",
+  "description": "Bill is now an omni-capable AI with Video generation, Vision analysis, and Live Voice.",
   "requestFramePermissions": [
+    "camera",
     "microphone",
     "geolocation"
   ]

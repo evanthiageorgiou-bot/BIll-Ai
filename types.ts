@@ -17,6 +17,9 @@ export interface Message {
   timestamp: number;
   isStreaming?: boolean;
   sources?: SearchSource[];
+  imageUrl?: string;
+  videoUrl?: string;
+  attachment?: string; // base64 image user sent
 }
 
 export interface ChatSession {
